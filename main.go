@@ -15,7 +15,7 @@ import (
 )
 
 func main() {
-	log.Println("Starting SSH Script Agent...")
+	log.Println("Starting HTTP Script Agent...")
 	serveHTTP()
 }
 
